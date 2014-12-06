@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/nokivan/consistent"
+    "github.com/novanchao/consistent"
 )
 
 func main() {
